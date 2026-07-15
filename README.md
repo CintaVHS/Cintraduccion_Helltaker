@@ -6,6 +6,6 @@ Este mod no pretende reemplazar cualquier otro mod de traducción al español de
 
 # INSTALACIÓN
 - 1º. En Steam, haz click derecho en Helltaker, dirígete a "Administrar", "Ver archivos locales".
-- 2º. En esta carpeta, descarga el .zip del mod.
+- 2º. En esta página, descarga "Helltaker - CT".
 - 3º. Descomprímelo, coloca sus contenidos en la carpeta "Helltaker", y reemplaza todos los archivos iguales
 - 4º. ¡Disfruta de la traducción!
