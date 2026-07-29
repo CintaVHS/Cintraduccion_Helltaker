@@ -10,5 +10,5 @@ https://www.youtube.com/@Reverbox-Dub
 # INSTALACIÓN
 - 1º. En Steam, haz click derecho en Helltaker, dirígete a "Administrar", "Ver archivos locales".
 - 2º. En la sección "Releases", descarga "Helltaker.-.CT".
-- 3º. Descomprímelo, coloca sus contenidos en la carpeta "Helltaker", y reemplaza todos los archivos iguales
+- 3º. Descomprímelo, coloca sus contenidos en la carpeta "Helltaker", y reemplaza todos los archivos iguales.
 - 4º. ¡Disfruta de la traducción!
